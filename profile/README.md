@@ -6,7 +6,7 @@
 <p align=center>experimental solution for hvh</p>
 
 ### Our projects:
-* [AnarchyLoader](https://github.com/AnarchyLoader/AnarchyLoader) - A user-friendly loader for Counter-Strike game series
+* [AnarchyLoader](https://github.com/AnarchyLoader/AnarchyLoader) - A user-friendly loader for games
 
 #### Developer section:
 * [AnarchyWeb](https://github.com/AnarchyLoader/AnarchyWeb) - Our REST-API for connecting the loader directly to the server side
