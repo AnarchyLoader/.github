@@ -11,6 +11,7 @@
 #### Developer section:
 * [AnarchyWeb](https://github.com/AnarchyLoader/AnarchyWeb) - Our REST-API for connecting the loader directly to the server side
 * [AnarchyInjector](https://github.com/AnarchyLoader/AnarchyInjector) - ManualMap DLL injector
+* [AnarchyBot](https://github.com/AnarchyLoader/AnarchyBot) - Our discord bot
 
 > All our projects are completely free and open source; if you don't feel sorry for us, you can support us by [donating here](https://collapseloader.org/donate/) (link for both projects)
 
